@@ -1,0 +1,20 @@
+html, body {
+    background-image: url(../imagens/fundo-madeira.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+}
+
+img#iphone {
+    display: block;
+    position: absolute;
+    top: 10vh;
+    left: 30vh;
+}
+
+iframe#tela {
+    height: 500px;
+    width: 280px;
+}
